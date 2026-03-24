@@ -17,6 +17,9 @@
 ## Security Groups & Network Shares
 - Created security groups in AD to manage access to department-specific network shares  
 - Configured folder permissions accordingly
+![Client Setup](HR_Share%20group.png)
+![Client Setup](HR_Share%20Permissions.png)
+![Client Setup](client%20access%20hr%20share.png)
 
 ## Policies
 - Enforced account lockout and password policies for users
