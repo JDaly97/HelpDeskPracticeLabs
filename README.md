@@ -1,6 +1,18 @@
-Lab setup: virtualbox client and server
-Server and client VM details, configured on an internal network
-Set up an active directory domain and created OU's
-client-server communication proof
-created security groups in AD to manage access to department-specific network shares and changed permissions accordingly
-enforced account lockout and password policies for users
+# Help Desk Lab – AD & Domain Setup
+
+## Lab Setup: VirtualBox Client and Server
+- Server and client VMs configured on an internal network
+
+## Active Directory
+- Set up an Active Directory domain  
+- Created Organizational Units (OUs)
+
+## Client-Server Communication
+- Verified connectivity between client and server
+
+## Security Groups & Network Shares
+- Created security groups in AD to manage access to department-specific network shares  
+- Configured folder permissions accordingly
+
+## Policies
+- Enforced account lockout and password policies for users
