@@ -2,30 +2,30 @@
 
 ## Lab Setup: VirtualBox Client and Server
 - Server and client VMs configured on an internal network.
-![Client Setup](client-about.png)
-![Server Setup](server-about.png)
+![Client Setup](screenshots/client-about.png)
+![Server Setup](screenshots/server-about.png)
 
 ## Active Directory
 - Set up an Active Directory domain
 - Configured client IP and DNS settings to ensure connectivity
 ![Client Setup](screenshots/local%20server%20info.png)
-![Client Setup](client-domain.png)
+![Client Setup](screenshots/client-domain.png)
 - Tested connectivity using ipconfig /all
-![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
+![Client Setup](screenshots/client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
 
 - Created Organizational Units
-![Client Setup](AD%20OU's.png)
+![Client Setup](screenshots/AD%20OU's.png)
 
 ## Security Groups & Network Shares
 - Created security groups in AD to manage access to department-specific network shares  
 - Set folder permissions accordingly
-![Client Setup](HR_Share%20group.png)
-![Client Setup](HR_Share%20Permissions.png)
-![Client Setup](client%20access%20hr%20share.png)
+![Client Setup](screenshots/HR_Share%20group.png)
+![Client Setup](screenshots/HR_Share%20Permissions.png)
+![Client Setup](screenshots/client%20access%20hr%20share.png)
 
 ## Policies
 - Set account lockout and password policies for users and used gpupdate /force to apply
 - Simulated an account unlock and password reset
-![Client Setup](account%20lockout%20policy.png)
-![Client Setup](password%20policy.png)
-![Client Setup](unlock%20account%20+%20reset%20user%20password.png)
+![Client Setup](screenshots/account%20lockout%20policy.png)
+![Client Setup](screenshots/password%20policy.png)
+![Client Setup](screenshots/unlock%20account%20+%20reset%20user%20password.png)
