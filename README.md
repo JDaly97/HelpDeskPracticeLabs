@@ -26,5 +26,5 @@
 - Enforced account lockout and password policies for users
 - Simulated an account unlock and password reset
 ![Client Setup](account%20lockout%20policy.png)
-![Client Setup](password%policy.png)
-![Client Setup](unlock%20account%20+%20rest%20user%20password.png)
+![Client Setup](password%20policy.png)
+![Client Setup](unlock%20account%20+%20reset%20user%20password.png)
