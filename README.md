@@ -24,7 +24,7 @@
 ![Client Setup](client%20access%20hr%20share.png)
 
 ## Policies
-- Enforced account lockout and password policies for users
+- Set account lockout and password policies for users and used gpupdate /force to apply
 - Simulated an account unlock and password reset
 ![Client Setup](account%20lockout%20policy.png)
 ![Client Setup](password%20policy.png)
