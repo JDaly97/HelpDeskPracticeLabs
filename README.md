@@ -12,10 +12,7 @@
 ![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
 
 - Created Organizational Units (OUs)
-
-
-## Client-Server Communication
-- Verified connectivity between client and server
+![Client Setup](AD%20OU's.png)
 
 ## Security Groups & Network Shares
 - Created security groups in AD to manage access to department-specific network shares  
