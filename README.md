@@ -10,7 +10,7 @@
 - Configured client IP and DNS settings to ensure connectivity
 ![Client Setup](local%20server%20info.png)
 ![Client Setup](client-domain.png)
-- Tested connectivity using ipconfig/all
+- Tested connectivity using ipconfig /all
 ![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
 
 - Created Organizational Units
