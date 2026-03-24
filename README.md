@@ -11,7 +11,7 @@
 ![Client Setup](screenshots/local%20server%20info.png)
 ![Client Setup](screenshots/client-domain.png)
 - Tested connectivity using ipconfig /all
-![Client Setup](screenshots/client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
+![Client Setup](screenshots/client-ipconfig-results.png)
 
 - Created Organizational Units
 ![Client Setup](screenshots/AD%20OU's.png)
