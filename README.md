@@ -2,8 +2,8 @@
 
 ## Lab Setup: VirtualBox Client and Server
 - Server and client VMs configured on an internal network
-(client-setup.png)
-(server-setup.png)
+![Client Setup](client%20setup.png)  
+![Server Setup](server%20setup.png)
 
 ## Active Directory
 - Set up an Active Directory domain  
