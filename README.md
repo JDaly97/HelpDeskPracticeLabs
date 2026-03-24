@@ -8,7 +8,7 @@
 ## Active Directory
 - Set up an Active Directory domain and verified client connection
 ![Client Setup](local%20server%20info.png)
-  
+![Client Setup](client-domain.png)
 - Created Organizational Units (OUs)
 
 
