@@ -8,7 +8,7 @@
 ## Active Directory
 - Set up an Active Directory domain
 - Configured client IP and DNS settings to ensure connectivity
-![Client Setup](local%20server%20info.png)
+![Client Setup](screenshots/local%20server%20info.png)
 ![Client Setup](client-domain.png)
 - Tested connectivity using ipconfig /all
 ![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
