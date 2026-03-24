@@ -9,7 +9,7 @@
 - Set up an Active Directory domain and verified client connection
 ![Client Setup](local%20server%20info.png)
 ![Client Setup](client-domain.png)
-![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results)
+![Client Setup](client%20ipconfig%20-%20ping%20+%20nslookup%20results.png)
 
 - Created Organizational Units (OUs)
 
