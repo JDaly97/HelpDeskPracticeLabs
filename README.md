@@ -6,8 +6,11 @@
 ![Server Setup](server-about.png)
 
 ## Active Directory
-- Set up an Active Directory domain  
+- Set up an Active Directory domain and verified client connection
+![Client Setup](local%20server%20info.png)
+  
 - Created Organizational Units (OUs)
+
 
 ## Client-Server Communication
 - Verified connectivity between client and server
