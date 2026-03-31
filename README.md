@@ -34,6 +34,7 @@ Ensured client connectivity and used ping + nslookup to confirm
 - Set folder permissions accordingly
 ![Client Setup](screenshots/HR_Share%20Permissions.png)
 
+- Accessed the HR department network share from a client machine
 ![Client Setup](screenshots/client%20access%20hr%20share.png)
 
 ## Policies
