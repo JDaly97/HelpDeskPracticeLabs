@@ -11,7 +11,7 @@
 ![Server Setup](screenshots/server-about.png)
 
 ## Active Directory
-- Set up an Active Directory domain
+- Set up an Active Directory domain (JoshLab.local)
   
   ![Client Setup](screenshots/AD-domain.png)
   
