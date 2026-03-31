@@ -14,9 +14,7 @@ Server and client VMs configured on the same internal network.
 ## Active Directory
 - Set up an Active Directory domain (JoshLab.local)
   
-  ![Client Setup](screenshots/AD-domain.png)
-  
-- Configured client IP and DNS settings to ensure connectivity
+![Client Setup](screenshots/AD-domain.png)
 ![Client Setup](screenshots/local%20server%20info.png)
 ![Client Setup](screenshots/client-domain.png)
 - Tested connectivity using ipconfig /all
