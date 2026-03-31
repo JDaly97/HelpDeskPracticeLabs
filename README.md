@@ -12,6 +12,7 @@
 
 ## Active Directory
 - Set up an Active Directory domain
+![Client Setup](screenshots/AD-domain.png)
 - Configured client IP and DNS settings to ensure connectivity
 ![Client Setup](screenshots/local%20server%20info.png)
 ![Client Setup](screenshots/client-domain.png)
