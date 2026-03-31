@@ -23,14 +23,17 @@ Ensured client connectivity and used ping + nslookup to confirm
 
 ![Client Setup](screenshots/client-ping-nslookup.png)
 
-- Created Organizational Units
+## Organisational Units, Security Groups & Network Shares
+
+- Created Organisational Units to logically organise users and resources within the domain.
 ![Client Setup](screenshots/AD%20OU's.png)
 
-## Security Groups & Network Shares
-- Created security groups in AD to manage access to department-specific network shares  
-- Set folder permissions accordingly
+- Created security groups to manage access to department-specific network shares
 ![Client Setup](screenshots/HR_Share%20group.png)
+
+- Set folder permissions accordingly
 ![Client Setup](screenshots/HR_Share%20Permissions.png)
+
 ![Client Setup](screenshots/client%20access%20hr%20share.png)
 
 ## Policies
