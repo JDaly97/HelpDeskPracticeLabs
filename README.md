@@ -37,7 +37,7 @@ Ensured client connectivity and used ping + nslookup to confirm
 - Accessed the HR department network share from the client machine
 ![Client Setup](screenshots/client%20access%20hr%20share.png)
 
-## Policies
+## Policies and Restrictions
 - Set account lockout and password policies for users and used gpupdate /force to apply
 
 ![Client Setup](screenshots/account%20lockout%20policy.png)
@@ -45,3 +45,6 @@ Ensured client connectivity and used ping + nslookup to confirm
 
 - Simulated an account unlock and password reset
 ![Client Setup](screenshots/unlock%20account%20+%20reset%20user%20password.png)
+
+- Implemented a Group Policy Object which restricts user access to the Control Panel
+![Client Setup](screenshots/control-panel-restriction)
