@@ -16,6 +16,8 @@ Server and client VMs configured on the same internal network.
   
 ![Client Setup](screenshots/AD-domain.png)
 ![Client Setup](screenshots/local%20server%20info.png)
+
+Ensured client connectivity and used ping + nslookup to confirm
 ![Client Setup](screenshots/client-domain.png)
 - Tested connectivity using ipconfig /all
 ![Client Setup](screenshots/client-ipconfig-results.png)
