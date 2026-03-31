@@ -12,15 +12,16 @@ Server and client VMs configured on the same internal network.
 ![Server Setup](screenshots/server-about.png)
 
 ## Active Directory
-- Set up an Active Directory domain (JoshLab.local)
+Set up an Active Directory domain (JoshLab.local)
   
 ![Client Setup](screenshots/AD-domain.png)
+
 ![Client Setup](screenshots/local%20server%20info.png)
 
 Ensured client connectivity and used ping + nslookup to confirm
 ![Client Setup](screenshots/client-domain.png)
-- Tested connectivity using ipconfig /all
-![Client Setup](screenshots/client-ipconfig-results.png)
+
+![Client Setup](screenshots/client-ping-nslookup.png)
 
 - Created Organizational Units
 ![Client Setup](screenshots/AD%20OU's.png)
