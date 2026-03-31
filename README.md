@@ -7,18 +7,21 @@
 - Active Directory Domain Services (AD DS)
 - Virtualisation software (VirtualBox)
 
-Server and client VMs configured on the same internal network.
+- Server and client VMs configured on the same internal network.
 ![Client Setup](screenshots/client-about.png)
 ![Server Setup](screenshots/server-about.png)
 
 ## Active Directory
-Set up an Active Directory domain (JoshLab.local)
+- Set up an Active Directory domain (JoshLab.local)
   
 ![Client Setup](screenshots/AD-domain.png)
 
 ![Client Setup](screenshots/local%20server%20info.png)
 
-Ensured client connectivity and used ping + nslookup to confirm
+- Configured static IP addressing and DNS settings on both the server and client machines to enable communication
+![Client Setup](screenshots/client-ip-config.png) ![Client Setup](screenshots/server-ip-config.png) 
+
+- Ensured client connectivity and used ping + nslookup to confirm
 ![Client Setup](screenshots/client-domain.png)
 
 ![Client Setup](screenshots/client-ping-nslookup.png)
