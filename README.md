@@ -47,4 +47,4 @@ Ensured client connectivity and used ping + nslookup to confirm
 ![Client Setup](screenshots/unlock%20account%20+%20reset%20user%20password.png)
 
 - Implemented a Group Policy Object which restricts user access to the Control Panel
-![Client Setup](screenshots/control-panel-restriction)
+![Client Setup](screenshots/control-panel-restriction.png)
