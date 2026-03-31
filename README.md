@@ -3,10 +3,10 @@
 ## Lab Setup: VirtualBox Client and Server
 ### Environment:
 - Windows Server 2022 (Domain Controller)
-- Windows 10 Client Machine
+- Windows 10 Client
 - Active Directory Domain Services (AD DS)
 - Virtualisation software (VirtualBox)
-- Server and client VMs configured on an internal network.
+- Server (domain controller) and client VMs configured on the same internal network.
 ![Client Setup](screenshots/client-about.png)
 ![Server Setup](screenshots/server-about.png)
 
