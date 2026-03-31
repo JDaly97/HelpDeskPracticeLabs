@@ -6,7 +6,7 @@
 - Windows 10 Client
 - Active Directory Domain Services (AD DS)
 - Virtualisation software (VirtualBox)
-- Server (domain controller) and client VMs configured on the same internal network.
+- Server and client VMs configured on the same internal network.
 ![Client Setup](screenshots/client-about.png)
 ![Server Setup](screenshots/server-about.png)
 
