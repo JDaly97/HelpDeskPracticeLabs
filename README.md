@@ -41,7 +41,7 @@
 ![Client Setup](screenshots/client%20access%20hr%20share.png)
 
 ## Policies and Restrictions
-- Set account lockout and password policies for users and used gpupdate /force to apply
+- Set account lockout and password policies for domain users
 
 ![Client Setup](screenshots/account%20lockout%20policy.png)
 ![Client Setup](screenshots/password%20policy.png)
