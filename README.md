@@ -39,7 +39,9 @@ Ensured client connectivity and used ping + nslookup to confirm
 
 ## Policies
 - Set account lockout and password policies for users and used gpupdate /force to apply
-- Simulated an account unlock and password reset
+
 ![Client Setup](screenshots/account%20lockout%20policy.png)
 ![Client Setup](screenshots/password%20policy.png)
+
+- Simulated an account unlock and password reset
 ![Client Setup](screenshots/unlock%20account%20+%20reset%20user%20password.png)
