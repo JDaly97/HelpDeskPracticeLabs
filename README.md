@@ -21,9 +21,10 @@
 - Configured static IP addressing and DNS settings on both the server and client machines to enable communication
 ![Client Setup](screenshots/client-ip-config.png) ![Client Setup](screenshots/server-ip-config.png) 
 
-- Ensured client connectivity and used ping + nslookup to confirm
+- Confirmed the client machine was successfully joined to the domain via system properties
 ![Client Setup](screenshots/client-domain.png)
 
+- Verified client-to-server connectivity and domain functionality using network diagnostic tools. Ping confirmed successful communication with the domain controller and nslookup validated proper DNS resolution for the domain.
 ![Client Setup](screenshots/client-ping-nslookup.png)
 
 ## Organisational Units, Security Groups & Network Shares
